@@ -4,12 +4,6 @@
 ### Team Members :
 Santosh Saxena
  
-Gayatri Pingale
- 
-Nandita Jassal
- 
-Mohit Virmani
- 
 ### Institute Name:
 Symbiosis Institute of Technology
 ### Topic:
